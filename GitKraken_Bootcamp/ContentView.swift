@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("ahmed fathy elsaka")
+            Text("what should i do this days 😏")
          
 
         }
