@@ -11,6 +11,7 @@
 		00E9E40E2BF67C1600EE497A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E9E40D2BF67C1600EE497A /* ContentView.swift */; };
 		00E9E4102BF67C1700EE497A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00E9E40F2BF67C1700EE497A /* Assets.xcassets */; };
 		00E9E4132BF67C1800EE497A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00E9E4122BF67C1800EE497A /* Preview Assets.xcassets */; };
+		00F60CD52BF6BE9A00E43192 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00F60CD42BF6BE9A00E43192 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		00E9E40D2BF67C1600EE497A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		00E9E40F2BF67C1700EE497A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00E9E4122BF67C1800EE497A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00F60CD42BF6BE9A00E43192 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				00E9E40B2BF67C1600EE497A /* GitKraken_BootcampApp.swift */,
 				00E9E40D2BF67C1600EE497A /* ContentView.swift */,
+				00F60CD42BF6BE9A00E43192 /* HomeView.swift */,
 				00E9E40F2BF67C1700EE497A /* Assets.xcassets */,
 				00E9E4112BF67C1800EE497A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00F60CD52BF6BE9A00E43192 /* HomeView.swift in Sources */,
 				00E9E40E2BF67C1600EE497A /* ContentView.swift in Sources */,
 				00E9E40C2BF67C1600EE497A /* GitKraken_BootcampApp.swift in Sources */,
 			);
