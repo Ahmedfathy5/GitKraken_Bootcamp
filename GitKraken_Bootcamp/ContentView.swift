@@ -10,17 +10,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "heart.fill")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("ahmed fathy elsaka")
-            Text("what should i do this days 😏")
-            Text(" 😏")
+          Text("Ahmed fathy one of the best ios developer in the world, he's not a normal software engineer. he's a king, unique , ")
 
          
 
         }
-        .padding()
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
