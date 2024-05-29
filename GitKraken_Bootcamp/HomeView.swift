@@ -11,6 +11,7 @@ struct HomeView: View {
     var body: some View {
         Text("Screen 2")
         Text("subscribe now!")
+        Text("ahmed fathy")
     }
 }
 
